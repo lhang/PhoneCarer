@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneCarer</string>
+    <string name="title_home">状态</string>
+    <string name="title_dashboard">功能</string>
+    <string name="title_settings">设置</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
